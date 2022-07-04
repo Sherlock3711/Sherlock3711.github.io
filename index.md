@@ -1,5 +1,5 @@
 # Welcome to my homepage!
-I'm a Ph.D. candidate at Leiden University under the supervison of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
+I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1) at Leiden University under the supervison of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
 
 My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory.
 
