@@ -16,7 +16,7 @@ In the upcoming semester, (fall 2022) we will be running a seminar on [Groupoid 
 
 ## Teaching
 ### Current
-I will be assisting Linear Analysis course with [Jack](https://www.universiteitleiden.nl/medewerkers/jack-thelin-af-ekenstam#tab-1).
+I will be assisting Linear Analysis with [Jack](https://www.universiteitleiden.nl/medewerkers/jack-thelin-af-ekenstam#tab-1).
 
 ### Past
 - 2022 spring: Lecturer of [Mathematical Reasoning](https://studiegids.universiteitleiden.nl/courses/110316/mathematical-reasoning).
