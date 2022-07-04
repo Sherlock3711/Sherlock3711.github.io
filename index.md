@@ -5,7 +5,7 @@ My research interests are mainly about the operator algebras and related topics.
 
 ## Seminars
 ### Current
-In the upcoming semester, (fall 2022) we will be running a [seminar](https://sherlock3711.github.io/Groupoids/) on Groupoid C*-algebras.
+In the upcoming semester, (fall 2022) we will be running a seminar on [Groupoid C*-algebras](https://sherlock3711.github.io/Groupoids/).
 
 ### Past
 - 2022 spring: [(K)K-theory seminar](https://liyuezhao.github.io/teaching/seminar_kk_2022spring/index.html).
