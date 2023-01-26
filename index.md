@@ -20,7 +20,7 @@ In the upcoming semester (2023 spring), Prof. Marcel de Jeu, Prof. Bram Mesland 
 
 ## Teaching
 ### Current
-I will be assisting Fourier Analysis in 2023 spring with [Jack](https://www.universiteitleiden.nl/medewerkers/jack-thelin-af-ekenstam#tab-1).
+I will be assisting [Fourier Analysis](https://studiegids.universiteitleiden.nl/en/courses/115407/fourier-analysis-bm) in 2023 spring with [Jack](https://www.universiteitleiden.nl/medewerkers/jack-thelin-af-ekenstam#tab-1).
 
 ### Past
 - 2022 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/en/courses/109620/linear-analysis-bm).
