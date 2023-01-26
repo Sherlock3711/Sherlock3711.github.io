@@ -20,9 +20,10 @@ In the upcoming semester (2023 spring), Prof. Marcel de Jeu, Prof. Bram Mesland 
 
 ## Teaching
 ### Current
-I will be assisting Linear Analysis with [Jack](https://www.universiteitleiden.nl/medewerkers/jack-thelin-af-ekenstam#tab-1).
+I will be assisting Fourier Analysis in 2023 spring with [Jack](https://www.universiteitleiden.nl/medewerkers/jack-thelin-af-ekenstam#tab-1).
 
 ### Past
+- 2022 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/en/courses/109620/linear-analysis-bm).
 - 2022 spring: Lecturer of [Mathematical Reasoning](https://studiegids.universiteitleiden.nl/courses/110316/mathematical-reasoning).
 - 2021 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/courses/109620/linear-analysis-bm).
 - 2020 spring: Teaching assistant of [Differentiable Manifolds 1](https://studiegids.universiteitleiden.nl/courses/82077/differentiable-manifolds-1).
