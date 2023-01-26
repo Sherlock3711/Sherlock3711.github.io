@@ -9,7 +9,7 @@ My research interests are mainly about the operator algebras and related topics.
 
 ## Seminars
 ### Current
-In the upcoming semester (2023 spring), Marcel de Jeu, Bram Mesland and Onno van Gaans are orginsing a seminar on [Harmonic analysis](https://www.math.leidenuniv.nl/~mdejeu/fasem_2023.html). 
+In the upcoming semester (2023 spring), Prof. Marcel de Jeu, Prof. Bram Mesland and Prof. Onno van Gaans are orginsing a seminar on [Harmonic analysis](https://www.math.leidenuniv.nl/~mdejeu/fasem_2023.html). 
 
 ### Past
 - 2022 fall: [Groupoid C*-algebras](https://sherlock3711.github.io/Groupoids/).
