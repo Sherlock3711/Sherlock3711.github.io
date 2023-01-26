@@ -3,6 +3,9 @@ I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-
 
 My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory.
 
+## Talks
+- [Subproduct systems from SU(2)-representations](https://drive.google.com/file/d/1hja43c9swg4df743SBEA_SFEcHBTG1S2/view), [5th Conference of Settat on "Operator Algebras and Applications"](https://sites.google.com/view/icsoaa-2023/home?authuser=0), 9—13 January 2023, Marrakech, Morocco
+
 
 ## Seminars
 ### Current
