@@ -23,7 +23,7 @@ In the upcoming semester (2024 spring), Prof. Bram Mesland is orginsing a local 
 
 ## Teaching
 ### Current
-I will be assisting [Representation Theory](https://studiegids.universiteitleiden.nl/en/courses/121691/representation-theory-bm) in 2024 spring.
+In 2024 spring, I will be assisting [Representation Theory](https://studiegids.universiteitleiden.nl/en/courses/121691/representation-theory-bm).
 
 ### Past
 - 2023 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/en/courses/121678/linear-analysis-bm)
