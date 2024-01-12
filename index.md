@@ -10,7 +10,7 @@ My research interests are mainly about the operator algebras and related topics.
 
 ## Seminars
 ### Current
-In the upcoming semester (2024 spring), Prof. Bram Mesland is orginsing a local seminar on research topic on Operator Algebras and Noncommutative Geometry.
+In the upcoming semester (2024 spring), Prof. Bram Mesland is orginsing a local seminar on research topics on Operator Algebras and Noncommutative Geometry.
 
 ### Past
 - 2023 fall: [Noncommutative geometry of foliations](https://ncg-leiden.github.io)
