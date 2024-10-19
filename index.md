@@ -1,18 +1,23 @@
 # Welcome to my homepage!
-I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1) at Leiden University under the supervison of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
+I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1) at Leiden University under the supervision of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
 
-My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory.
+My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory. Recently, I have a keen interest in function theory related to the Arveson–Douglas conjecture.
 
 ## Talks
+- [SU(2)-symmetries of C*-algebras: from bricks to buildings](https://blogs.kent.ac.uk/iwota2024/files/2024/08/S9-1.pdf), [IWOTA 2024](https://blogs.kent.ac.uk/iwota2024/), 12-16 August, Kent University, UK.
 - [Subproduct systems from SU(2)-representations](https://drive.google.com/file/d/1hja43c9swg4df743SBEA_SFEcHBTG1S2/view), [5th Conference of Settat on "Operator Algebras and Applications"](https://sites.google.com/view/icsoaa-2023/home?authuser=0), 9-13 January 2023, Marrakech, Morocco.
 - [Subproduct systems from SU(2)-representations](https://wis.kuleuven.be/events/YMCstarA), YMC*A 2023, 7-11 August 2023, Leuven, België.
 
+## Research visits
+- [Sichuan University](https://math.scu.edu.cn/en/English.htm), 12-20 September, Chengdu, China. Hosts: [Prof. Xingni Jiang](https://www.universiteitleiden.nl/en/staffmembers/xingni-jiang#tab-1) and Prod. Hui Dan.
+- [Chongqing University](https://sci.cqu.edu.cn/SCI1/About.htm), 20-27 September, Chongqing, China. Host: [Prof. Yi Wang](https://faculty.cqu.edu.cn/YiWang12/en/index.htm).
 
 ## Seminars
 ### Current
-In the upcoming semester (2024 spring), Prof. Bram Mesland is orginsing a local seminar on research topics on Operator Algebras and Noncommutative Geometry.
+To be determined.
 
 ### Past
+- 2024 Spring: [Noncommutative geometry research seminar](https://ncg-leiden.github.io/summer2024/)
 - 2023 fall: [Noncommutative geometry of foliations](https://ncg-leiden.github.io)
 - 2023 spring: [Harmonic analysis](https://www.math.leidenuniv.nl/~mdejeu/fasem_2023.html)
 - 2022 fall: [Groupoid C*-algebras](https://sherlock3711.github.io/Groupoids/)
@@ -23,9 +28,9 @@ In the upcoming semester (2024 spring), Prof. Bram Mesland is orginsing a local 
 
 ## Teaching
 ### Current
-In 2024 spring, I will be assisting [Representation Theory](https://studiegids.universiteitleiden.nl/en/courses/121691/representation-theory-bm)
-
+In 2024 spring, I will be assisting Linear Analysis.
 ### Past
+- 2024 spring: Teaching assistant of [Representation Theory](https://studiegids.universiteitleiden.nl/en/courses/121691/representation-theory-bm)
 - 2023 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/en/courses/121678/linear-analysis-bm)
 - 2023 spring: Teaching assistant of [Fourier Analysis](https://studiegids.universiteitleiden.nl/en/courses/115407/fourier-analysis-bm)
 - 2022 fall: Teaching assistant of [Linear Analysis](https://studiegids.universiteitleiden.nl/en/courses/109620/linear-analysis-bm)
