@@ -46,5 +46,7 @@ Some links of my colleagues and friends are as follows
 - [Dimitris M. Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home)
 - [Marcel de Jeu](https://www.math.leidenuniv.nl/~mdejeu/)
 - [Onno van Gaans](https://www.math.leidenuniv.nl/~vangaans/)
+- [Yi Wang](https://faculty.cqu.edu.cn/YiWang12/en/index.htm)
+- [Xingni Jiang](https://www.universiteitleiden.nl/en/staffmembers/xingni-jiang#tab-1)
 
 
