@@ -1,5 +1,5 @@
 # Welcome to my homepage!
-I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1) at Leiden University under the supervision of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
+I'm a [Ph.D. candidate](https://www.universiteitleiden.nl/en/staffmembers/yufan-ge#tab-1) at the Mathematical Institute of Leiden University, in the research group [Noncommutative Geometry](https://ncg-leiden.github.io/), under the supervision of [Dr. Francesca Arici](https://pub.math.leidenuniv.nl/~aricif2/). 
 
 My research interests are mainly about the operator algebras and related topics. Currently, I'm focusing on the C*-algebras from subproduct systems and their K-theory. Recently, I have a keen interest in function theory related to the Arveson–Douglas conjecture.
 
@@ -20,8 +20,8 @@ To be determined.
 - 2024 Spring: [Noncommutative geometry research seminar](https://ncg-leiden.github.io/summer2024/)
 - 2023 fall: [Noncommutative geometry of foliations](https://ncg-leiden.github.io)
 - 2023 spring: [Harmonic analysis](https://www.math.leidenuniv.nl/~mdejeu/fasem_2023.html)
-- 2022 fall: [Groupoid C*-algebras](https://sherlock3711.github.io/Groupoids/)
-- 2022 spring: [(K)K-theory seminar](https://liyuezhao.github.io/teaching/seminar_kk_2022spring/index.html)
+- 2022 fall: [Groupoid C*-algebras](https://ncg-leiden.github.io/groupoid2022/)
+- 2022 spring: [(K)K-theory seminar](https://ncg-leiden.github.io/kk2022/)
 - 2021 fall: NCG reading seminar on [*Index Theory and Deformation Theory*](https://pub.math.leidenuniv.nl/~aricif2/ncg_seminar.html)
 - 2021 fall: Functional Analysis seminar on [Completely Positive and Bounded maps](https://www.math.leidenuniv.nl/~mdejeu/fasem_2021.html)
 
